@@ -1,0 +1,26 @@
+_repo: A-history-of-tithes_71221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarke, Henry William
+    gutenberg_agent_id: '56128'
+    url: http://www.gutenberg.org/2009/agents/56128
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71221'
+language: en
+pgterms:marc904: https://archive.org/details/historyoftithes00claruoft
+pgterms:marc905: 20200918081658clarke
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bSwan Sonnenschein, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A history of tithes
+url: http://www.gutenberg.org/ebooks/71221
