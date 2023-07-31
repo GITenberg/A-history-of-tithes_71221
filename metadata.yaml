@@ -1,11 +1,16 @@
 _repo: A-history-of-tithes_71221
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71221-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, Henry William
     gutenberg_agent_id: '56128'
     url: http://www.gutenberg.org/2009/agents/56128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71221#A-history-of-tithes
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71221'
